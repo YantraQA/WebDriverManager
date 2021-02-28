@@ -1,6 +1,6 @@
 # WebDriverManager
-Different browser Invocation by using WebDriver Manager [using bonigarcia dependency]
-This dependency downloads the latest compatable browser driver according to your current system browser version.
+Different browser Invocation by using WebDriver Manager [using bonigarcia dependency].
+This dependency downloads the latest compatable browser driver automatically according to your current system browser version.
 So that everytime there is an browser version update released as user you don't required to download the compaatable browser driver version.
 
 ---
@@ -34,4 +34,4 @@ driver = new OperaDriver();
 WebDriverManager.edgedriver().setup();
 driver = new EdgeDriver();
 ```
-And rest of the code is just the same
+And for the rest of the code you can continue as per your requirnment.
