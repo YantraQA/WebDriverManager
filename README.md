@@ -6,11 +6,11 @@ So that everytime there is an browser version update released as user you don't 
 ---
 To make the use of this feature you need to add following dependency into the pom.xml file of the maven project
 ```
-		<dependency>
-			<groupId>io.github.bonigarcia</groupId>
-			<artifactId>webdrivermanager</artifactId>
-			<version>4.3.1</version>
-		</dependency>
+<dependency>
+	<groupId>io.github.bonigarcia</groupId>
+	<artifactId>webdrivermanager</artifactId>
+	<version>4.3.1</version>
+</dependency>
 ```
 And to invoke the browsers add the code as following
 1. Chrome Browser Invocation
