@@ -9,7 +9,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class FirefoxBrowserInvocation {
+public class FirefoxBrowserInvocation 
+{
 	
 	static WebDriver driver;
 	

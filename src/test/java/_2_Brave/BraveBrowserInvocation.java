@@ -9,7 +9,8 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class BraveBrowserInvocation {
+public class BraveBrowserInvocation 
+{
 	
 	static WebDriver driver;
 	String braveBrowserPath = "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe";

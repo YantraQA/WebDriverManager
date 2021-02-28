@@ -9,7 +9,8 @@ import org.openqa.selenium.opera.OperaDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class OperaBrowserInvocation {
+public class OperaBrowserInvocation 
+{
 	
 	static WebDriver driver;
 	

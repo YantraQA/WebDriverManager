@@ -9,7 +9,8 @@ import org.openqa.selenium.edge.EdgeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class EdgeBrowserInvocation {
+public class EdgeBrowserInvocation 
+{
 	
 	static WebDriver driver;
 	

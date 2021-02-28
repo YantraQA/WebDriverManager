@@ -11,7 +11,8 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class ChromiumBrowserInvocation {
+public class ChromiumBrowserInvocation 
+{
 	
 	static WebDriver driver;
 	String chromiumBrowserPath = "C:\\Users\\Sarang\\AppData\\Local\\Chromium\\Application\\chrome.exe";

@@ -8,7 +8,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class ChromeBrowserInvocation {
+public class ChromeBrowserInvocation 
+{
 	
 	static WebDriver driver;
 	
